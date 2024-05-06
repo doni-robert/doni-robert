@@ -1,13 +1,17 @@
 
-![github-header-image](https://github.com/doni-robert/doni-robert/assets/105845754/a80a6426-7d73-4c2f-ad15-51292cd6fcab)
-### Hello World!
+![github-header-image](github-header-image(1).png)
+### Hello
 
-I'm a passionate software engineering learner with a background in electrical and electronics. I love building things and exploring new technologies.
+Hi, I'm Robert. I live for curiosity and challenges. Connect with me
 
-## 🔧 Technologies & Tools
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-ndung-u-70859927b/)](https://www.linkedin.com/in/robert-ndung-u-70859927b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@irobertndungu@gmail.com)](mailto:mail@irobertndungu@gmail.com)
+
+## ⚡ Skills
 
 - Python
 - C
-- JavaScript (Node.js)
+- JavaScript
 - HTML & CSS
-- Git
+- React
+- Node JS
