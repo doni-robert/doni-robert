@@ -5,7 +5,11 @@
 ## Hi
 
 I'm Robert.  
-I build things that work behind the scenes so everything else looks seamless.
+I build things that work behind the scenes so everything else looks seamless.  
+
+My tech stack includes **Python** [ **Django**, **Flask** ] and **C#** [ **.NET** ] for backend development and **JavaScript** [ **React** ] for the frontend.  
+
+I’m always looking for ways to write cleaner, more maintainable code.
 
 
 ## ⚡ Skills
